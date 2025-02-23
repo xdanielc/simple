@@ -8,7 +8,7 @@
 <body>
 <?php
     for ($i=0; $i < 10; $i++) { 
-        echo "\t<h2>Hola</h2>\n";
+        echo "\t<h2>Inicio</h2>\n";
     }
 ?>
 </body>
